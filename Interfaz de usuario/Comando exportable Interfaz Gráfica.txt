@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --add-data "C:/Users/cacer/OneDrive - unimilitar.edu.co/NECTIM COLOMBIA S.A.S/BPO/BOT BOTONES DE PROYECTO/Interfaz de usuario/Iconos/Fondo de interfaz.png;Icono" --icon="C:/Users/cacer/OneDrive - unimilitar.edu.co/NECTIM COLOMBIA S.A.S/BPO/BOT BOTONES DE PROYECTO/Interfaz de usuario/Iconos/Icono de ventana.ico" --noconsole Interfaz.py 
